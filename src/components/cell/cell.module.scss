@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  outline: none;
+  .cell_input {
+    height: 60px;
+    width: 60px;
+    outline: none;
+    text-align: center;
+    border: none;
+  }
+}

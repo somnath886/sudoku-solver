@@ -1,0 +1,122 @@
+[
+  {
+    "hashId": "a82f53c9-3972-4cb8-9176-8bd7a75c5a14",
+    "value": 0,
+    "x": 1,
+    "y": 3,
+    "memberOfRow": 1,
+    "memberOfColumn": 3,
+    "memberOfGrid": 1,
+    "possibilities": [5, 8]
+  },
+  {
+    "hashId": "017fe3a1-902d-4932-83a0-56d1d1ff3360",
+    "value": 0,
+    "x": 3,
+    "y": 2,
+    "memberOfRow": 3,
+    "memberOfColumn": 2,
+    "memberOfGrid": 3,
+    "possibilities": [2, 3]
+  },
+  {
+    "hashId": "5345b5b8-83f5-40a0-a4a0-348217453daf",
+    "value": 0,
+    "x": 3,
+    "y": 4,
+    "memberOfRow": 3,
+    "memberOfColumn": 4,
+    "memberOfGrid": 4,
+    "possibilities": [2, 9]
+  },
+  {
+    "hashId": "3bb5b1c9-febb-46b1-849c-ba69fbe98852",
+    "value": 0,
+    "x": 3,
+    "y": 7,
+    "memberOfRow": 3,
+    "memberOfColumn": 7,
+    "memberOfGrid": 5,
+    "possibilities": [3, 4]
+  },
+  {
+    "hashId": "c71f551d-687e-4735-aece-63e1ffee9195",
+    "value": 0,
+    "x": 4,
+    "y": 0,
+    "memberOfRow": 4,
+    "memberOfColumn": 0,
+    "memberOfGrid": 3,
+    "possibilities": [6, 7]
+  },
+  {
+    "hashId": "ff4961e1-d7df-4c9c-a57d-cb97591a437b",
+    "value": 0,
+    "x": 4,
+    "y": 6,
+    "memberOfRow": 4,
+    "memberOfColumn": 6,
+    "memberOfGrid": 5,
+    "possibilities": [7, 8]
+  },
+  {
+    "hashId": "2d0420e4-f938-4500-ad47-1bba29f2908d",
+    "value": 0,
+    "x": 5,
+    "y": 5,
+    "memberOfRow": 5,
+    "memberOfColumn": 5,
+    "memberOfGrid": 4,
+    "possibilities": [6, 8]
+  },
+  {
+    "hashId": "de925cbd-a04d-413d-a546-d34143aea029",
+    "value": 0,
+    "x": 5,
+    "y": 6,
+    "memberOfRow": 5,
+    "memberOfColumn": 6,
+    "memberOfGrid": 5,
+    "possibilities": [7, 8]
+  },
+  {
+    "hashId": "08f622c7-b895-4547-a651-263415b8bc84",
+    "value": 0,
+    "x": 6,
+    "y": 7,
+    "memberOfRow": 6,
+    "memberOfColumn": 7,
+    "memberOfGrid": 8,
+    "possibilities": [7, 8]
+  },
+  {
+    "hashId": "cf7fbfad-a309-4240-8929-bd89e6ed687c",
+    "value": 0,
+    "x": 7,
+    "y": 3,
+    "memberOfRow": 7,
+    "memberOfColumn": 3,
+    "memberOfGrid": 7,
+    "possibilities": [5, 9]
+  },
+  {
+    "hashId": "9464f7df-34b9-4328-b3ba-612f61dff043",
+    "value": 0,
+    "x": 7,
+    "y": 5,
+    "memberOfRow": 7,
+    "memberOfColumn": 5,
+    "memberOfGrid": 7,
+    "possibilities": [7, 9]
+  },
+  {
+    "hashId": "1f099113-2397-4254-9ae3-9e0c153ca41e",
+    "value": 0,
+    "x": 8,
+    "y": 7,
+    "memberOfRow": 8,
+    "memberOfColumn": 7,
+    "memberOfGrid": 8,
+    "possibilities": [6, 7]
+  }
+]

@@ -1,0 +1,10 @@
+.container {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  display: flex;
+  flex-direction: column;
+  border: 2px solid black;
+  .cell_container {
+    display: flex;
+  }
+}
